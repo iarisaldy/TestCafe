@@ -1,0 +1,17 @@
+{
+  "name": "atlas-test-cafe",
+  "version": "1.0.0",
+  "description": "mencoba test cafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/testcafe chrome basic.test.js"
+  },
+  "keywords": [
+    "atlas"
+  ],
+  "author": "irfan",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.9.4"
+  }
+}
