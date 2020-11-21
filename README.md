@@ -1,4 +1,6 @@
-# TestCafe
+# TestCafe 
+
+A node.js tool to automate end-to-end web testing
 
 Download nvm-setup.zip
 
